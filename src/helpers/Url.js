@@ -1,0 +1,1 @@
+export const url ="https://figuras-edwin.herokuapp.com/figuras/";
